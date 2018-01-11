@@ -1,5 +1,4 @@
 'use strict';
-
 // solution for my head is at the wrong end with green passing.
 
 function insertDash(num) {
